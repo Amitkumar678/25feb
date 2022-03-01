@@ -1,0 +1,41 @@
+.box1{
+    background-image: linear-gradient(to left,red,green);
+}
+.box2{
+    background-image: radial-gradient(red,blue);
+    margin-top: 40px;
+    
+
+}
+.box3{
+    background-color: orange;
+    float: right;
+    
+}
+.box4{
+    background-color: green;
+    clear: right;
+}
+
+.box{
+    height: 100px;
+    width: 120px;
+}
+.box5{
+    
+    background-color: hotpink;
+    box-sizing: content-box;
+    
+}
+.box6{
+    background-color: blueviolet;
+    box-sizing: border-box;
+    
+}
+.boX{
+   height: 100px;
+   width: 100px;
+   border: 2px solid black;
+   padding: 10px; 
+   margin: 10px;
+}
